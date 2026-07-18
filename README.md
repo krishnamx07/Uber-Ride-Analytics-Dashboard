@@ -17,7 +17,7 @@ Public dataset: [Uber Ride Analytics 2024 (Kaggle)](https://www.kaggle.com/datas
 |---|---|
 | `Uber-Dashboard.pbix` | Power BI report — 6 pages, 180 visuals |
 | `uber.xlsx` | Source dataset |
-| `Uber_Problems_and_Business_Requirements.docx` | Requirements doc used to scope the build |
+| `business_requirements.md` | Requirements doc used to scope the build |
 
 ## Report pages
 
