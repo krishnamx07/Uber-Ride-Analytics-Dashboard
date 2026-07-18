@@ -2,6 +2,11 @@
 
 A Power BI dashboard analyzing 150,000 Uber ride bookings across 6 report pages — booking performance, revenue, vehicle mix, rider behavior, and location/demand patterns.
 
+### Overview
+![Overview page](screenshots/overview.png)
+
+Completed/Lost bookings, revenue, total & average distance...
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue)
 
